@@ -100,7 +100,6 @@ body{
 .header-sub{
     height: 45px;
     margin-top: 8px;
-    margin-left: 15px;
     display: flex;
     overflow-y: scroll;
 
