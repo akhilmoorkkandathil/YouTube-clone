@@ -102,7 +102,6 @@ body{
     margin-top: 8px;
     display: flex;
     overflow-y: scroll;
-    position: fixed;
 
 }
 .header-sub::-webkit-scrollbar{
